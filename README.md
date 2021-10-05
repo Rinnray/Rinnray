@@ -9,7 +9,7 @@
 
 > 🏆 62 Contributions in the Year 2021
  > 
-> 📦 535.7 kB Used in GitHub's Storage 
+> 📦 535.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,10 +44,13 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               59 mins             ██████████████████░░░░░░░   73.69% 
+HTML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   23.21% 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 20 mins        █████████████████████████   100.0%
 
 ```
 
@@ -68,7 +71,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2021
+ Last Updated on 05/10/2021
 <!--END_SECTION:waka-->
 
 
