@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Rinnray/Rinnray/blob/master/devcard.svg" width="400" alt="Rinnray's Dev Card"/></a>
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
