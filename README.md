@@ -1,5 +1,16 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Rinnray"><img src="https://github.com/Rinnray/Rinnray/blob/main/devcard.svg" width="400" alt="Rinnray's Dev Card"/></a>
+
+<div align="left">
+ <a href="https://app.daily.dev/Rinnray">
+   <img 
+        align="right"
+        src="https://github.com/Rinnray/Rinnray/blob/main/devcard.svg" 
+        width="400" 
+        alt="Rinnray's Dev Card"/>
+ </a>
+</div>
+
+
 
 
 <!--START_SECTION:waka-->
