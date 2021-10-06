@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Rinnray"><img src="https://github.com/Rinnray/Rinnray/blob/master/devcard.svg" width="400" alt="Rinnray's Dev Card"/></a>
+<a href="https://app.daily.dev/Rinnray"><img src="https://github.com/Rinnray/Rinnray/blob/main/devcard.svg" width="400" alt="Rinnray's Dev Card"/></a>
 
 
 <!--START_SECTION:waka-->
