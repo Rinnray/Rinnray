@@ -22,7 +22,7 @@
 
 > 🏆 154 Contributions in the Year 2021
  > 
-> 📦 170.2 kB Used in GitHub's Storage 
+> 📦 171.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,7 +82,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2021
+ Last Updated on 07/11/2021
 <!--END_SECTION:waka-->
 
 
