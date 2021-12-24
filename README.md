@@ -22,7 +22,7 @@
 
 > 🏆 203 Contributions in the Year 2021
  > 
-> 📦 737.5 kB Used in GitHub's Storage 
+> 📦 737.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,7 +82,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
 
