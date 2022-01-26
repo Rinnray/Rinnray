@@ -22,7 +22,7 @@
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 711.2 kB Used in GitHub's Storage 
+> 📦 712.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,14 +57,10 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               45 mins             ██████████████░░░░░░░░░░░   57.57% 
-JSON                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47% 
-Lua                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 19 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -85,7 +81,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 18:40:42 UTC
+ Last Updated on 26/01/2022 18:39:40 UTC
 <!--END_SECTION:waka-->
 
 
