@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--859%20Thousand%20lines%20of%20code-blue)
 
@@ -22,7 +22,7 @@
 
 > 🏆 8 Contributions in the Year 2022
  > 
-> 📦 652.6 kB Used in GitHub's Storage 
+> 📦 653.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,14 +57,14 @@ Sunday       45 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 mins             █████████████░░░░░░░░░░░░   52.34% 
-Markdown                 9 mins              ██████████░░░░░░░░░░░░░░░   40.25% 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+TypeScript               12 mins             ████████░░░░░░░░░░░░░░░░░   35.33% 
+YAML                     10 mins             ███████░░░░░░░░░░░░░░░░░░   30.75% 
+Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   27.17% 
+Vue.js                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.0%
+Linux                    34 mins             █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ DIGITAL Command Language 1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 18:40:33 UTC
+ Last Updated on 01/04/2022 18:40:44 UTC
 <!--END_SECTION:waka-->
 
 
