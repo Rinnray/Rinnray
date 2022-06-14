@@ -16,41 +16,41 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--647%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--642%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 15 Contributions in the Year 2022
+> 🏆 12 Contributions in the Year 2022
  > 
-> 📦 628.0 kB Used in GitHub's Storage 
+> 📦 630.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
-🌆 Daytime    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-🌃 Evening    273 commits    █████████░░░░░░░░░░░░░░░░   37.76% 
-🌙 Night      379 commits    █████████████░░░░░░░░░░░░   52.42%
+🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
+🌆 Daytime    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
+🌃 Evening    277 commits    █████████░░░░░░░░░░░░░░░░   38.05% 
+🌙 Night      380 commits    █████████████░░░░░░░░░░░░   52.2%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-Tuesday      82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
-Wednesday    143 commits    █████░░░░░░░░░░░░░░░░░░░░   19.78% 
-Thursday     150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.75% 
-Friday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.25% 
-Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
-Sunday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62%
+Monday       81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
+Tuesday      82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+Wednesday    143 commits    █████░░░░░░░░░░░░░░░░░░░░   19.64% 
+Thursday     150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.6% 
+Friday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
+Sunday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
 
 ```
 
@@ -59,10 +59,10 @@ Sunday       84 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -83,7 +83,7 @@ DIGITAL Command Language 1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:38:57 UTC
+ Last Updated on 14/06/2022 18:40:54 UTC
 <!--END_SECTION:waka-->
 
 
