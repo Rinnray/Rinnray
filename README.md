@@ -24,7 +24,7 @@
 
 > 🏆 12 Contributions in the Year 2022
  > 
-> 📦 632.4 kB Used in GitHub's Storage 
+> 📦 632.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,10 +59,13 @@ Sunday       88 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 49 mins        ██████████████████████░░░   88.12% 
+TOML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +86,7 @@ DIGITAL Command Language 1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 18:41:11 UTC
+ Last Updated on 22/06/2022 18:42:49 UTC
 <!--END_SECTION:waka-->
 
 
