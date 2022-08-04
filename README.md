@@ -22,13 +22,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 77 Contributions in the Year 2022
+> 🏆 79 Contributions in the Year 2022
  > 
-> 📦 791.2 kB Used in GitHub's Storage 
+> 📦 792.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -59,11 +59,11 @@ Sunday       85 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 mins             █████████████████████░░░░   85.26% 
-TOML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.74%
+Markdown                 10 mins             █████████████████████░░░░   85.41% 
+TOML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   14.59%
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.0%
+Windows                  12 mins             █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rinnray/Rinnray/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2022 18:41:50 UTC
+ Last Updated on 04/08/2022 18:45:33 UTC
 <!--END_SECTION:waka-->
 
 
