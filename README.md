@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Rinnray/count.svg)
 <!---<img src="https://visitor-badge.laobi.icu/badge?page_id=Rinnray.Rinnray&right_color=darkviolet"  />--->
 
 Hi 👋 I'm Luna 
@@ -69,6 +68,7 @@ Nothing at the moment.
 <br>
 
 ## Stats
+![Visitor Count](https://profile-counter.glitch.me/Rinnray/count.svg)
 
 ![Rinnray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinnray&show_icons=true&theme=radical)
 
