@@ -68,6 +68,7 @@ Nothing at the moment.
 <br>
 
 ## Stats
+
 ![Visitor Count](https://profile-counter.glitch.me/Rinnray/count.svg)
 
 ![Rinnray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinnray&show_icons=true&theme=radical)
