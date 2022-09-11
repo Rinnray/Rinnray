@@ -116,19 +116,17 @@ Sunday       122 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-JavaScript               3 hrs 16 mins       ██████████████████░░░░░░░   73.31% 
-Markdown                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   22.53% 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 10/09/2022 18:47:53 UTC
+ Last Updated on 11/09/2022 18:42:22 UTC
 <!--END_SECTION:waka-->
 </details>
