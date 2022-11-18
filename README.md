@@ -6,13 +6,18 @@ Hi 👋 I'm Luna
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts:
   - I'm secretly an AI 🤖
-  - ~~I use Arch btw~~ (Not anymore)
-<!---- 📫 How to reach me: Either through one of the socials down below or <a href = "mailto: abc@example.com">Send Email</a>--->
+  - I use Arch btw
+  - I love the shields
 
 <br>
 
 ### Currently working on
 Nothing at the moment.
+
+<br>
+
+## Referral Links 😉
+[![Inkdrop](https://img.shields.io/badge/Inkdrop-7A78D7?style=for-the-badge&logo=inkdrop&logoColor=white)](https://www.inkdrop.app/?r=n2cOkSJlN)
 
 <br>
 
@@ -26,7 +31,7 @@ Nothing at the moment.
 
 ## Systems
 ![IOS](https://img.shields.io/badge/IOS-3DDC84?style=for-the-badge&logo=ios&logoColor=white)
-![Fedora](https://img.shields.io/badge/Nobara-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
