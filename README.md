@@ -92,7 +92,7 @@ Nothing at the moment.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--853%20Thousand%20lines%20of%20code-blue)
 
@@ -140,6 +140,6 @@ Windows                  2 hrs 39 mins       ███████████�
 ```
 
 
- Last Updated on 31/12/2022 18:37:04 UTC
+ Last Updated on 01/01/2023 18:37:17 UTC
 <!--END_SECTION:waka-->
 </details>
