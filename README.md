@@ -16,7 +16,8 @@ Nothing at the moment.
 
 <br>
 
-<!---## Referral Links 😉 --->
+## Referral Links 😉
+[![Inkdrop](https://img.shields.io/badge/Inkdrop-7A78D7?style=for-the-badge&logo=inkdrop&logoColor=white)](https://www.inkdrop.app/?r=PERA1bWPd)
 
 <!---<br>--->
 
