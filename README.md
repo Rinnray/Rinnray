@@ -120,17 +120,16 @@ Sunday                   256 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-TOML                     17 mins             █████████████████░░░░░░░░   67.56 % 
-Markdown                 8 mins              ████████░░░░░░░░░░░░░░░░░   32.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/05/2023 18:33:30 UTC
+ Last Updated on 31/05/2023 18:33:44 UTC
 <!--END_SECTION:waka-->
 </details>
