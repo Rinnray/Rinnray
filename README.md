@@ -30,8 +30,8 @@ Nothing at the moment.
 <br>
 
 ## Systems
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-3DDC84?style=for-the-badge&logo=ios&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
