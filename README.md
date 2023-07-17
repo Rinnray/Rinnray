@@ -25,6 +25,7 @@ Nothing at the moment.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/249158065817911298)
 [![Email](https://img.shields.io/badge/EMail-F06B66?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:contact@rinnray.dev)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rinnray)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@Rinnray)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rinnray)
 
 <br>
