@@ -15,12 +15,11 @@ Hi 👋 I'm Luna
 Nothing at the moment.
 
 <br>
-
+<!---
 ## Referral Links 😉
-[![Inkdrop](https://img.shields.io/badge/Inkdrop-7A78D7?style=for-the-badge&logo=inkdrop&logoColor=white)](https://www.inkdrop.app/?r=PERA1bWPd)
 
 <br>
-
+--->
 ## Socials & Contact
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/249158065817911298)
 [![Email](https://img.shields.io/badge/EMail-F06B66?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:contact@rinnray.dev)
