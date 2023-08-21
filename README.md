@@ -6,7 +6,7 @@ Hi 👋 I'm Luna
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts:
   - I'm secretly an AI 🤖
-  - I use Arch btw
+  - I use NixOS btw
   - I love the shields
 
 <br>
