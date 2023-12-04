@@ -93,7 +93,43 @@ Hi 👋 I'm Luna
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 03/12/2023 18:33:34 UTC
+```text
+🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+🌆 Daytime                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+🌃 Evening                1008 commits        ███████████░░░░░░░░░░░░░░   44.46 % 
+🌙 Night                  1029 commits        ███████████░░░░░░░░░░░░░░   45.39 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   332 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Tuesday                  310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Wednesday                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 322 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Friday                   319 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Saturday                 314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Stockholm
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/12/2023 18:34:24 UTC
 <!--END_SECTION:waka-->
 </details>
