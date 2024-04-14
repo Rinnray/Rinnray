@@ -89,8 +89,6 @@ Hi 👋 I'm Luna
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2038%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -130,6 +128,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/04/2024 18:33:12 UTC
+ Last Updated on 14/04/2024 21:07:07 UTC
 <!--END_SECTION:waka-->
 </details>
