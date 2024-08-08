@@ -12,7 +12,7 @@ Hi 👋 I'm Luna
 <br>
 
 ### Currently working on
-- [My own website](https://rinnray.dev)
+- [My own website](https://aethrexal.dev)
 
 <br>
 <!---
